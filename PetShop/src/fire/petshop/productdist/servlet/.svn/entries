@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/productdist/servlet"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="41"
+   name="ItemListServlet.java"
+   text-time="2006-12-02T07:25:36.500000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="2743aa2e6fc9bcd6b7091d0552b537ed"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:36.328125Z"/>
+<entry
+   committed-rev="41"
+   name="ItemListServlet.class"
+   text-time="2006-12-02T07:25:36.546875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="e2c76663de986fab3127bbc069c5332d"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:36.359375Z"/>
+<entry
+   committed-rev="8"
+   name="QueryItemServlet.java"
+   text-time="2006-11-29T12:50:26.671875Z"
+   committed-date="2006-11-29T12:16:09.656250Z"
+   checksum="68dee2438da7394984f2c1eb97687dea"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:50:26.250000Z"/>
+<entry
+   committed-rev="40"
+   name="SearchItemServlet.java"
+   text-time="2006-12-01T12:01:44.562500Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="2895cd87f258edb4300beabdf17ec870"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T09:14:40.937500Z"/>
+<entry
+   committed-rev="41"
+   name="QueryItemServlet.class"
+   text-time="2006-12-02T07:25:36.562500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="e5e59344e60b12d6d61b889db1df3684"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:36.453125Z"/>
+<entry
+   committed-rev="41"
+   name="SearchItemServlet.class"
+   text-time="2006-12-02T07:25:36.578125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="b0c973331eb90643276551551101d0c8"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:36.468750Z"/>
+</wc-entries>

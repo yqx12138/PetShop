@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/loginandregist/bll"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="31"
+   name="AccountBLL.java"
+   text-time="2006-11-30T09:38:15.250000Z"
+   committed-date="2006-11-30T09:37:16.000000Z"
+   checksum="af428344fcde7d36f499189e05d03bbe"
+   last-author="yf"
+   kind="file"
+   prop-time="2006-11-30T09:38:15.187500Z"/>
+<entry
+   committed-rev="41"
+   name="AccountBLL.class"
+   text-time="2006-12-02T07:25:38.484375Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="7d6c4d23996aa3f967b829c9e04cccb7"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:38.453125Z"/>
+</wc-entries>

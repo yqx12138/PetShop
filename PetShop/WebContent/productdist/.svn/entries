@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="39"
+   name=""
+   committed-date="2006-11-30T10:59:11.750000Z"
+   url="svn://192.168.0.234/WebRoot/productdist"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="40"/>
+<entry
+   committed-rev="41"
+   name="itemdetails.jsp"
+   text-time="2006-12-02T06:16:03.828125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="ff55115ff7d29dd1333ed8e36ae9c5ba"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T10:54:44.843750Z"
+   revision="41"/>
+<entry
+   name="temp.jsp"
+   kind="file"
+   deleted="true"
+   revision="41"/>
+<entry
+   committed-rev="41"
+   name="searchItems.jsp"
+   text-time="2006-12-02T03:44:56.562500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="8757b82293f9be230912c88c418ecdc1"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T10:52:07.750000Z"
+   revision="41"/>
+<entry
+   name="Images"
+   kind="dir"/>
+<entry
+   committed-rev="41"
+   name="items.jsp"
+   text-time="2006-12-02T03:39:51.328125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="e04127bae0868a52e6bf70447d5e2836"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T09:38:55.453125Z"
+   revision="41"/>
+<entry
+   committed-rev="34"
+   name="zyl.txt"
+   text-time="2006-11-30T09:38:55.984375Z"
+   committed-date="2006-11-30T09:39:25.218750Z"
+   checksum="17d970448218a7e7263cee2b6b8052af"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-30T09:38:55.843750Z"/>
+</wc-entries>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-12-02T07:33:41.562500Z"
+   url="svn://192.168.0.234/src/fire/petshop/common/base"
+   last-author="zsc"
+   kind="dir"
+   repos="svn://192.168.0.234"
+   revision="44"/>
+<entry
+   committed-rev="44"
+   name="ConnectionBase.java"
+   text-time="2006-11-30T01:10:00.000000Z"
+   committed-date="2006-12-02T07:33:41.562500Z"
+   checksum="0d5c7bace831004ade062877c9e110b9"
+   last-author="zsc"
+   kind="file"/>
+</wc-entries>

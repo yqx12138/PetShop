@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/productdist/util"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="8"
+   name="Pagination.java"
+   text-time="2006-11-29T12:50:27.812500Z"
+   committed-date="2006-11-29T12:16:09.656250Z"
+   checksum="b0fb126f95d22b4e6a0c75416d635944"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:50:27.781250Z"/>
+<entry
+   committed-rev="41"
+   name="Pagination.class"
+   text-time="2006-12-02T07:25:37.546875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="6ea8d33b457b477a42c41dfe083d3bb9"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:37.515625Z"/>
+</wc-entries>

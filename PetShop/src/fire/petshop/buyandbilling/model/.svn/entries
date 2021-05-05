@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/buyandbilling/model"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="41"
+   name="LineItemBean.class"
+   text-time="2006-12-02T07:25:35.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="26b4274a8f03ac174cce063612220e27"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.671875Z"/>
+<entry
+   committed-rev="26"
+   name="InventoryBean.java"
+   text-time="2006-11-28T08:46:10.343750Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="4e23b71eb1a3d3792eca41c7a4d908b9"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="ItemBean.java"
+   text-time="2006-11-28T08:46:26.515625Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="ff77e58fb90e57fcf68d5413966abe47"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="OrdersBean.java"
+   text-time="2006-11-28T08:46:51.218750Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="3b756bdb777a2da594ad0e06da2f11ea"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="OrderStatusBean.java"
+   text-time="2006-11-28T08:47:07.656250Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="7c73de77a3b82f3b7b016692b11c4866"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="ProductBean.java"
+   text-time="2006-11-28T08:47:22.500000Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="4578f1a5f6d6f9c0c94de908d003d427"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="InventoryBean.class"
+   text-time="2006-12-02T07:25:35.125000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="c94bb630addf10542c1c521e3ee03c82"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.718750Z"/>
+<entry
+   committed-rev="41"
+   name="ItemBean.class"
+   text-time="2006-12-02T07:25:35.328125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="6e97e303eb2e78e625ea3675838a7650"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.812500Z"/>
+<entry
+   committed-rev="41"
+   name="OrdersBean.class"
+   text-time="2006-12-02T07:25:35.343750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="ac9694534a0ac83083c14a6badd34628"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.875000Z"/>
+<entry
+   committed-rev="41"
+   name="OrderStatusBean.class"
+   text-time="2006-12-02T07:25:35.359375Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="eb85e64158aa047f4bb33c793a2fbd11"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.906250Z"/>
+<entry
+   committed-rev="41"
+   name="ProductBean.class"
+   text-time="2006-12-02T07:25:35.375000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="b7e2c6cb697f1a907ca5524fd5198a50"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.953125Z"/>
+<entry
+   committed-rev="26"
+   name="LineItemBean.java"
+   text-time="2006-11-28T08:46:37.890625Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="dc57c600c0c70ed5427c53a2bbdd738d"
+   last-author="zsc"
+   kind="file"/>
+</wc-entries>

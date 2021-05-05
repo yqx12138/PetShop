@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/favorit/bll"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="14"
+   name="FavoritBLL.java"
+   text-time="2006-11-29T12:50:29.234375Z"
+   committed-date="2006-11-29T12:47:16.578125Z"
+   checksum="060b7826d5b8c6e9c91c3959f727f136"
+   last-author="yf"
+   kind="file"
+   prop-time="2006-11-29T12:50:29.203125Z"/>
+<entry
+   committed-rev="41"
+   name="FavoritBLL.class"
+   text-time="2006-12-02T07:25:39.546875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="e12a27dd90cd661a307638d9a493cddc"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:39.515625Z"/>
+</wc-entries>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/categorydist/model"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="11"
+   name="ProductModel.java"
+   text-time="2006-11-29T12:50:21.687500Z"
+   committed-date="2006-11-29T12:26:36.359375Z"
+   checksum="3cb1c004933bed647e629539bdccaea1"
+   last-author="wp"
+   kind="file"
+   prop-time="2006-11-29T12:50:21.609375Z"/>
+<entry
+   committed-rev="41"
+   name="CategoryModel.class"
+   text-time="2006-12-02T07:25:32.828125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="89b482af2199a8926b55037fc11750f2"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:32.750000Z"/>
+<entry
+   committed-rev="41"
+   name="ProductModel.class"
+   text-time="2006-12-02T07:25:32.890625Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="d6e2704b69d1c3e680deb750b3111587"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:32.781250Z"/>
+<entry
+   committed-rev="11"
+   name="CategoryModel.java"
+   text-time="2006-11-29T12:50:21.703125Z"
+   committed-date="2006-11-29T12:26:36.359375Z"
+   checksum="93a2196be27e28774c897ba9f3443ec4"
+   last-author="wp"
+   kind="file"
+   prop-time="2006-11-29T12:50:21.656250Z"/>
+</wc-entries>

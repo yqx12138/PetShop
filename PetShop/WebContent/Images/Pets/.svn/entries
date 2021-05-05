@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/WebRoot/Images/Pets"
+   last-author="zsc"
+   kind="dir"
+   repos="svn://192.168.0.234"
+   revision="41"/>
+<entry
+   committed-rev="41"
+   name="bird1.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="4e60ea85b13c58ddb700dec8b2ee97fa"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.546875Z"/>
+<entry
+   committed-rev="41"
+   name="bird2.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="dc4a265b88f40b244333b6c693060279"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.593750Z"/>
+<entry
+   committed-rev="41"
+   name="fish1.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="40db683d9ec8d46455c54e92c7e92190"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.859375Z"/>
+<entry
+   committed-rev="41"
+   name="fish2.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="84b5a4078dd0c917c2001895f2d5ca96"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.906250Z"/>
+<entry
+   committed-rev="41"
+   name="fish3.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="c5f9c792f6f3abc34fe5a8d69e2de249"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.921875Z"/>
+<entry
+   committed-rev="41"
+   name="fish4.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="9277304ca7ec9ec0dabd76423db041be"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.968750Z"/>
+<entry
+   committed-rev="41"
+   name="reptile1.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="567545327687bda2e81ad73a7098f918"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.984375Z"/>
+<entry
+   committed-rev="41"
+   name="reptile2.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="3027261d57547e8d8b73eff0459cbe9f"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:54.015625Z"/>
+<entry
+   committed-rev="41"
+   name="cat1.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="69224d7a9d54881f8f9ca41cfab68caf"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.609375Z"/>
+<entry
+   committed-rev="41"
+   name="cat2.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="ff04f641a607a8387998571c9a47995d"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.671875Z"/>
+<entry
+   committed-rev="41"
+   name="dog1.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="f0554db8aaccd09423540a484f5d373d"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.687500Z"/>
+<entry
+   committed-rev="41"
+   name="dog2.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="d9618903a45bc8a0fad576a59c88d5a2"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.734375Z"/>
+<entry
+   committed-rev="41"
+   name="dog3.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="085ecc2df9724ca0f83e1c5997f2b20c"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.750000Z"/>
+<entry
+   committed-rev="41"
+   name="dog4.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="66bb1af50e7a9f518333856f11392c2b"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.781250Z"/>
+<entry
+   committed-rev="41"
+   name="dog5.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="e1da4c0f5c72d003f3f0724fdacd3cbe"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.796875Z"/>
+<entry
+   committed-rev="41"
+   name="dog6.jpg"
+   text-time="2003-01-09T08:24:42.000000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="0f9931741fc2fd7190aa29128415484c"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T06:41:53.843750Z"/>
+</wc-entries>

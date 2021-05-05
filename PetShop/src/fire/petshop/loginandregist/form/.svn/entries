@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/loginandregist/form"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="41"
+   name="LoginForm.class"
+   text-time="2006-12-02T07:25:38.390625Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="69f92097ce32ce61be0a65b42911c717"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:38.125000Z"/>
+<entry
+   committed-rev="31"
+   name="RegistForm.java"
+   text-time="2006-11-30T09:38:14.265625Z"
+   committed-date="2006-11-30T09:37:16.000000Z"
+   checksum="6395406b378e2feb24c3237341d198ff"
+   last-author="yf"
+   kind="file"
+   prop-time="2006-11-30T09:38:14.187500Z"/>
+<entry
+   committed-rev="41"
+   name="RegistForm.class"
+   text-time="2006-12-02T07:25:38.421875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="933b15f6e0b33537294a527a3696b584"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:38.187500Z"/>
+<entry
+   committed-rev="31"
+   name="LoginForm.java"
+   text-time="2006-11-30T09:38:14.281250Z"
+   committed-date="2006-11-30T09:37:16.000000Z"
+   checksum="246f1d8a49328096c85943c37809eaac"
+   last-author="yf"
+   kind="file"
+   prop-time="2006-11-30T09:38:14.234375Z"/>
+</wc-entries>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="29"
+   name=""
+   committed-date="2006-11-30T09:36:18.156250Z"
+   url="svn://192.168.0.234/WebRoot/loginandregist"
+   last-author="yf"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="40"/>
+<entry
+   committed-rev="41"
+   name="loginandregist.jsp"
+   text-time="2006-12-02T03:29:10.390625Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="1245a998b5dd1ec2309813b184d37032"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T09:39:20.359375Z"
+   revision="41"/>
+<entry
+   committed-rev="29"
+   name="Styles.css"
+   text-time="2006-11-30T09:39:20.656250Z"
+   committed-date="2006-11-30T09:36:18.156250Z"
+   checksum="1efc2b72d49474942c947226388e1435"
+   last-author="yf"
+   kind="file"
+   schedule="delete"
+   prop-time="2006-11-30T09:39:20.406250Z"/>
+<entry
+   committed-rev="41"
+   name="createaccount.jsp"
+   text-time="2006-12-02T03:02:01.968750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="6d2844c3316eff8057f88ebe1926aaee"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T09:39:20.468750Z"
+   revision="41"/>
+<entry
+   committed-rev="41"
+   name="editaccount.jsp"
+   text-time="2006-12-01T10:45:40.937500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="9484a11b349d0c00ed2eba270a7033e3"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T09:39:20.546875Z"
+   revision="41"/>
+<entry
+   committed-rev="41"
+   name="myaccount.jsp"
+   text-time="2006-12-02T02:48:32.203125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="6a6a1cdb141d7694a6f4ccf6750c06d1"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-30T09:39:20.578125Z"
+   revision="41"/>
+</wc-entries>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9"
+   name=""
+   committed-date="2006-11-29T12:17:12.437500Z"
+   url="svn://192.168.0.234/WebRoot/productdist/Images/Pets"
+   last-author="zyl"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="40"/>
+<entry
+   committed-rev="9"
+   name="bird1.jpg"
+   text-time="2006-11-29T12:27:23.890625Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="4e60ea85b13c58ddb700dec8b2ee97fa"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:22.937500Z"/>
+<entry
+   committed-rev="9"
+   name="bird2.jpg"
+   text-time="2006-11-29T12:27:23.906250Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="dc4a265b88f40b244333b6c693060279"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:22.984375Z"/>
+<entry
+   committed-rev="9"
+   name="Thumbs.db"
+   text-time="2006-11-29T12:27:23.953125Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="feb0d55c4dbb9d1cea30d66345f6c4f2"
+   last-author="zyl"
+   kind="file"
+   schedule="delete"
+   prop-time="2006-11-29T12:27:23.031250Z"/>
+<entry
+   committed-rev="9"
+   name="fish1.jpg"
+   text-time="2006-11-29T12:27:23.984375Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="40db683d9ec8d46455c54e92c7e92190"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.093750Z"/>
+<entry
+   committed-rev="9"
+   name="fish2.jpg"
+   text-time="2006-11-29T12:27:24.000000Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="84b5a4078dd0c917c2001895f2d5ca96"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.125000Z"/>
+<entry
+   committed-rev="9"
+   name="fish3.jpg"
+   text-time="2006-11-29T12:27:24.015625Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="c5f9c792f6f3abc34fe5a8d69e2de249"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.156250Z"/>
+<entry
+   committed-rev="9"
+   name="fish4.jpg"
+   text-time="2006-11-29T12:27:24.031250Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="9277304ca7ec9ec0dabd76423db041be"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.203125Z"/>
+<entry
+   committed-rev="9"
+   name="reptile1.jpg"
+   text-time="2006-11-29T12:27:24.078125Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="567545327687bda2e81ad73a7098f918"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.250000Z"/>
+<entry
+   committed-rev="9"
+   name="reptile2.jpg"
+   text-time="2006-11-29T12:27:24.093750Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="3027261d57547e8d8b73eff0459cbe9f"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.296875Z"/>
+<entry
+   committed-rev="9"
+   name="cat1.jpg"
+   text-time="2006-11-29T12:27:24.109375Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="69224d7a9d54881f8f9ca41cfab68caf"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.343750Z"/>
+<entry
+   committed-rev="9"
+   name="cat2.jpg"
+   text-time="2006-11-29T12:27:24.125000Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="ff04f641a607a8387998571c9a47995d"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.468750Z"/>
+<entry
+   committed-rev="9"
+   name="dog1.jpg"
+   text-time="2006-11-29T12:27:24.140625Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="f0554db8aaccd09423540a484f5d373d"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.625000Z"/>
+<entry
+   committed-rev="9"
+   name="dog2.jpg"
+   text-time="2006-11-29T12:27:24.156250Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="d9618903a45bc8a0fad576a59c88d5a2"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.656250Z"/>
+<entry
+   committed-rev="9"
+   name="dog3.jpg"
+   text-time="2006-11-29T12:27:24.171875Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="085ecc2df9724ca0f83e1c5997f2b20c"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.703125Z"/>
+<entry
+   committed-rev="9"
+   name="dog4.jpg"
+   text-time="2006-11-29T12:27:24.187500Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="66bb1af50e7a9f518333856f11392c2b"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.750000Z"/>
+<entry
+   committed-rev="9"
+   name="dog5.jpg"
+   text-time="2006-11-29T12:27:24.218750Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="e1da4c0f5c72d003f3f0724fdacd3cbe"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.796875Z"/>
+<entry
+   committed-rev="9"
+   name="dog6.jpg"
+   text-time="2006-11-29T12:27:24.234375Z"
+   committed-date="2006-11-29T12:17:12.437500Z"
+   checksum="0f9931741fc2fd7190aa29128415484c"
+   last-author="zyl"
+   kind="file"
+   prop-time="2006-11-29T12:27:23.843750Z"/>
+</wc-entries>

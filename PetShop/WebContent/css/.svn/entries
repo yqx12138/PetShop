@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/WebRoot/css"
+   last-author="zsc"
+   kind="dir"
+   repos="svn://192.168.0.234"
+   revision="41"/>
+<entry
+   committed-rev="41"
+   name="Styles.css"
+   text-time="2006-12-01T06:23:53.140625Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="84e9590d5d9b95724ab5533b8c75157e"
+   last-author="zsc"
+   kind="file"/>
+</wc-entries>

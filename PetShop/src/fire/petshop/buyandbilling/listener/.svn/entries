@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/buyandbilling/listener"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="40"
+   name="CreateCartListener.java"
+   text-time="2006-12-02T03:09:01.515625Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="4996c507db0083553b5d15eea768d0f4"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="CreateCartListener.class"
+   text-time="2006-12-02T07:25:34.640625Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="aeb420e7b472feaf7269422d7e09eb17"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.546875Z"/>
+</wc-entries>

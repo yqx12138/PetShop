@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-12-02T07:33:41.562500Z"
+   url="svn://192.168.0.234/src/fire/petshop/common/util"
+   last-author="zsc"
+   kind="dir"
+   repos="svn://192.168.0.234"
+   revision="44"/>
+<entry
+   committed-rev="44"
+   name="PageUtil.java"
+   text-time="2006-12-02T07:02:41.375000Z"
+   committed-date="2006-12-02T07:33:41.562500Z"
+   checksum="b466589a91b95b2270f8976ad23e0005"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="44"
+   name="DateUtil.java"
+   text-time="2006-11-30T01:09:00.000000Z"
+   committed-date="2006-12-02T07:33:41.562500Z"
+   checksum="f6b88d1010670103338bc7900f0f03ff"
+   last-author="zsc"
+   kind="file"/>
+</wc-entries>

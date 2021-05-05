@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/loginandregist/model"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="31"
+   name="AccountBean.java"
+   text-time="2006-11-30T09:38:13.906250Z"
+   committed-date="2006-11-30T09:37:16.000000Z"
+   checksum="8a2840e0e9ad05f783d6c1d3c4f055a3"
+   last-author="yf"
+   kind="file"
+   prop-time="2006-11-30T09:38:13.843750Z"/>
+<entry
+   committed-rev="41"
+   name="AccountBean.class"
+   text-time="2006-12-02T07:25:37.968750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="a03fb220bdcda40992df9b020447f744"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:37.937500Z"/>
+</wc-entries>

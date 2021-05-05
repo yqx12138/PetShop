@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/buyandbilling/dao"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="26"
+   name="InventoryDAO.java"
+   text-time="2006-11-28T09:11:02.734375Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="149f4558221255222e5631f0f4b14918"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="ItemDAO.java"
+   text-time="2006-11-28T09:17:17.359375Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="f990682faa6e12214a446c962a98c96c"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="OrdersDAO.java"
+   text-time="2006-11-30T06:58:20.453125Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="235bd12a58568e10b510fed76d9c4b39"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="BaseDAO.class"
+   text-time="2006-12-02T07:25:35.687500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="6e1d888dffe0046b2ee067d724f51d02"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:35.421875Z"/>
+<entry
+   committed-rev="26"
+   name="ProductDAO.java"
+   text-time="2006-11-28T09:33:06.640625Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="95c1dc0113e72aa6b00f943259d4a325"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="InventoryDAO.class"
+   text-time="2006-12-02T07:25:35.718750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="8b694010706d5c406c543101d5ed64ca"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:35.453125Z"/>
+<entry
+   committed-rev="41"
+   name="ItemDAO.class"
+   text-time="2006-12-02T07:25:35.750000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="4992a95d6aa0ba9bf34922b86e42030b"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:35.531250Z"/>
+<entry
+   committed-rev="41"
+   name="OrdersDAO.class"
+   text-time="2006-12-02T07:25:35.781250Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="36b6878eba2173c86bd667c5ef73d086"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:35.609375Z"/>
+<entry
+   committed-rev="41"
+   name="ProductDAO.class"
+   text-time="2006-12-02T07:25:35.812500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="4014731558bbe82cf4800f4185a88262"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:35.640625Z"/>
+<entry
+   committed-rev="26"
+   name="LineItemDAO.java"
+   text-time="2006-11-30T04:03:28.578125Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="b87f3d9f7e3417f92652b1d9ccc65a74"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="26"
+   name="BaseDAO.java"
+   text-time="2006-11-28T09:05:38.875000Z"
+   committed-date="2006-11-30T09:14:17.875000Z"
+   checksum="79630163e0ce890d50db5e653ae4cbb4"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="LineItemDAO.class"
+   text-time="2006-12-02T07:25:35.828125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="3040c41a67855918affa0e1f113199c1"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:35.671875Z"/>
+</wc-entries>

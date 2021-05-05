@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="2.4" 
+	xmlns="http://java.sun.com/xml/ns/j2ee" 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee 
+	http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+	<filter>
+		<filter-name>EncodingFilter</filter-name>
+		<filter-class>fire.petshop.common.filter.EncodingFilter</filter-class>
+		<init-param>
+			<param-name>Encoding</param-name>
+			<param-value>gb2312</param-value>
+		</init-param>
+	</filter>
+	<filter-mapping>
+		<filter-name>EncodingFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	
+	<listener>
+		<listener-class>fire.petshop.buyandbilling.listener.CreateCartListener</listener-class>
+	</listener>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>AddItemToCartServlet</servlet-name>
+    <servlet-class>fire.petshop.buyandbilling.servlet.AddItemToCartServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>RemoveItemFromCartServlet</servlet-name>
+    <servlet-class>fire.petshop.buyandbilling.servlet.RemoveItemFromCartServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>UpdateItemInCartServlet</servlet-name>
+    <servlet-class>fire.petshop.buyandbilling.servlet.UpdateItemInCartServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>BuildOrderServlet</servlet-name>
+    <servlet-class>fire.petshop.buyandbilling.servlet.BuildOrderServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProcessOrderServlet</servlet-name>
+    <servlet-class>fire.petshop.buyandbilling.servlet.ProcessOrderServlet</servlet-class>
+  </servlet>
+
+
+
+
+
+  <servlet-mapping>
+    <servlet-name>AddItemToCartServlet</servlet-name>
+    <url-pattern>/buyandbilling/AddItemToCartServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>RemoveItemFromCartServlet</servlet-name>
+    <url-pattern>/buyandbilling/RemoveItemFromCartServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>UpdateItemInCartServlet</servlet-name>
+    <url-pattern>/buyandbilling/UpdateItemInCartServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>BuildOrderServlet</servlet-name>
+    <url-pattern>/buyandbilling/BuildOrderServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>ProcessOrderServlet</servlet-name>
+    <url-pattern>/buyandbilling/ProcessOrderServlet</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>ProductListServlet</servlet-name>
+    <servlet-class>fire.petshop.categorydist.servlet.ProductListServlet</servlet-class>
+  </servlet>
+  <servlet>
+    <description>This is the description of my J2EE component</description>
+    <display-name>This is the display name of my J2EE component</display-name>
+    <servlet-name>CategoryListServlet</servlet-name>
+    <servlet-class>fire.petshop.categorydist.servlet.CategoryListServlet</servlet-class>
+  </servlet>
+
+
+  <servlet-mapping>
+    <servlet-name>ProductListServlet</servlet-name>
+    <url-pattern>/categorydist/ProductListServlet</url-pattern>
+  </servlet-mapping>
+  <servlet-mapping>
+    <servlet-name>CategoryListServlet</servlet-name>
+    <url-pattern>/categorydist/CategoryListServlet</url-pattern>
+  </servlet-mapping>
+</web-app>

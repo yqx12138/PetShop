@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/categorydist/form"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="11"
+   name="CategoryForm.java"
+   text-time="2006-11-29T12:50:22.468750Z"
+   committed-date="2006-11-29T12:26:36.359375Z"
+   checksum="b026ee3d4bd5c29d3cc9a5fcb65583e1"
+   last-author="wp"
+   kind="file"
+   prop-time="2006-11-29T12:50:22.203125Z"/>
+<entry
+   committed-rev="11"
+   name="ProductForm.java"
+   text-time="2006-11-29T12:50:22.484375Z"
+   committed-date="2006-11-29T12:26:36.359375Z"
+   checksum="8c849ab64f56a14f8a8972c8b93fb4e1"
+   last-author="wp"
+   kind="file"
+   prop-time="2006-11-29T12:50:22.312500Z"/>
+<entry
+   committed-rev="41"
+   name="CategoryForm.class"
+   text-time="2006-12-02T07:25:33.140625Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="b2336910af5f5684c6421003ecec1288"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.000000Z"/>
+<entry
+   committed-rev="41"
+   name="ProductForm.class"
+   text-time="2006-12-02T07:25:33.171875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="71dabd7517c0e9ca6f662780ee0b1712"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.031250Z"/>
+</wc-entries>

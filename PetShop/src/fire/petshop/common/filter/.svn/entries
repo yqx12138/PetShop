@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-12-02T07:33:41.562500Z"
+   url="svn://192.168.0.234/src/fire/petshop/common/filter"
+   last-author="zsc"
+   kind="dir"
+   repos="svn://192.168.0.234"
+   revision="44"/>
+<entry
+   committed-rev="44"
+   name="EncodingFilter.java"
+   text-time="2006-11-30T01:09:56.000000Z"
+   committed-date="2006-12-02T07:33:41.562500Z"
+   checksum="a329ec2a9bb12c480496df5db243d2ae"
+   last-author="zsc"
+   kind="file"/>
+</wc-entries>

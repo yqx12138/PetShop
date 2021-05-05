@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="44"
+   name=""
+   committed-date="2006-12-02T07:33:41.562500Z"
+   url="svn://192.168.0.234/src/fire/petshop/common"
+   last-author="zsc"
+   kind="dir"
+   repos="svn://192.168.0.234"
+   revision="44"/>
+<entry
+   name="filter"
+   kind="dir"/>
+<entry
+   name="base"
+   kind="dir"/>
+<entry
+   name="util"
+   kind="dir"/>
+</wc-entries>

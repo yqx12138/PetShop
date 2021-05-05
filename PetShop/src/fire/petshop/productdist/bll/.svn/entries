@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/productdist/bll"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="41"
+   name="ItemBll.java"
+   text-time="2006-12-02T07:25:36.671875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="05a95e86000eb3d513a09b53d2f56545"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:36.609375Z"/>
+<entry
+   committed-rev="41"
+   name="ItemBll.class"
+   text-time="2006-12-02T07:25:36.687500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="00a30e1ee42856a0f28ab790b29241ae"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:36.640625Z"/>
+</wc-entries>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/categorydist/dao"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="11"
+   name="ProductDao.java"
+   text-time="2006-11-29T12:50:21.984375Z"
+   committed-date="2006-11-29T12:26:36.359375Z"
+   checksum="eaba98f58f694676b07de651c0f66d5f"
+   last-author="wp"
+   kind="file"
+   prop-time="2006-11-29T12:50:21.921875Z"/>
+<entry
+   committed-rev="41"
+   name="ProductDao.class"
+   text-time="2006-12-02T07:25:32.968750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="33cf1b6ec9af72f416063be3dbbf65da"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:32.921875Z"/>
+</wc-entries>

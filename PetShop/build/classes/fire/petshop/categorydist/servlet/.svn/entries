@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/categorydist/servlet"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="41"
+   name="ProductListServlet.java"
+   text-time="2006-12-02T07:25:32.656250Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="f5f214af449871097d14641cafcb89f1"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:32.468750Z"/>
+<entry
+   committed-rev="41"
+   name="CategoryListServlet.class"
+   text-time="2006-12-02T07:25:32.687500Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="065472eddf9571f9bfbfc54dd79c5163"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:32.546875Z"/>
+<entry
+   committed-rev="41"
+   name="ProductListServlet.class"
+   text-time="2006-12-02T07:25:32.703125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="73f1d8c7c293e18ec952426c32958829"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:32.593750Z"/>
+<entry
+   committed-rev="40"
+   name="CategoryListServlet.java"
+   text-time="2006-11-30T12:17:52.468750Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="d1a5e1af3b3ed67af55bde3bc36a321e"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-11-29T12:50:22.765625Z"/>
+</wc-entries>

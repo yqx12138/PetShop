@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/buyandbilling/servlet"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="40"
+   name="ProcessOrderServlet.java"
+   text-time="2006-11-30T12:48:59.734375Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="cdd4bea7d8de106e739ceb19351e5c74"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="40"
+   name="RemoveItemFromCartServlet.java"
+   text-time="2006-12-01T13:07:33.187500Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="b0093c0e973e2b322292a7e8d9da91dc"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="40"
+   name="BuildOrderServlet.java"
+   text-time="2006-12-02T03:24:04.781250Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="26e6cb83816b93ae3c37e1f576ad7c55"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="40"
+   name="PrepareOrderBillingServlet.java"
+   text-time="2006-12-02T03:21:59.265625Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="d8f8a34f15b69d4f7cfabfd4875601a5"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="ProcessOrderServlet.class"
+   text-time="2006-12-02T07:25:34.343750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="adbf239bb6929710421b77dc1f530519"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.875000Z"/>
+<entry
+   committed-rev="41"
+   name="RemoveItemFromCartServlet.class"
+   text-time="2006-12-02T07:25:34.359375Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="96f8068eda352878e6eff223a861888f"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.937500Z"/>
+<entry
+   committed-rev="41"
+   name="BuildOrderServlet.class"
+   text-time="2006-12-02T07:25:34.406250Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="2500e20b6da781c77efa93a6c9a05d9d"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.156250Z"/>
+<entry
+   committed-rev="41"
+   name="PrepareOrderBillingServlet.class"
+   text-time="2006-12-02T07:25:34.421875Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="4174d6621584b0e37fcc24b212c5ebf2"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.187500Z"/>
+<entry
+   committed-rev="44"
+   name="UpdateItemInCartServlet.java"
+   text-time="2006-12-02T06:58:04.921875Z"
+   committed-date="2006-12-02T07:33:41.562500Z"
+   checksum="a53d083d209d38c1aec33e966bf0aae4"
+   last-author="zsc"
+   kind="file"
+   revision="44"/>
+<entry
+   committed-rev="40"
+   name="AddItemToCartServlet.java"
+   text-time="2006-12-01T12:21:32.078125Z"
+   committed-date="2006-12-02T06:53:43.812500Z"
+   checksum="fdc5c7db4f02930a53eac9acdc86af7c"
+   last-author="zsc"
+   kind="file"/>
+<entry
+   committed-rev="41"
+   name="UpdateItemInCartServlet.class"
+   text-time="2006-12-02T07:25:34.453125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="fa7c89e9b12219fb3b276f03737807cb"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.234375Z"/>
+<entry
+   committed-rev="41"
+   name="AddItemToCartServlet.class"
+   text-time="2006-12-02T07:25:34.484375Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="de8c963e56b11dd28dd00ecdb3bdcef4"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:34.296875Z"/>
+</wc-entries>

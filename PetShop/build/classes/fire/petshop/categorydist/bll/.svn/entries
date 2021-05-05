@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/categorydist/bll"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="11"
+   name="CategoryBLL.java"
+   text-time="2006-11-29T12:50:23.218750Z"
+   committed-date="2006-11-29T12:26:36.359375Z"
+   checksum="233fb5da679948e6b303d2361cc7d24b"
+   last-author="wp"
+   kind="file"
+   prop-time="2006-11-29T12:50:23.109375Z"/>
+<entry
+   committed-rev="41"
+   name="ProductBLL.java"
+   text-time="2006-12-02T07:25:33.343750Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="3913965d562acc0d09e24c42f7ba6cd4"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.218750Z"/>
+<entry
+   committed-rev="41"
+   name="CategoryBLL.class"
+   text-time="2006-12-02T07:25:33.375000Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="077eef86681296d7d0348eb3ac5d1cd8"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.234375Z"/>
+<entry
+   committed-rev="41"
+   name="ProductBLL.class"
+   text-time="2006-12-02T07:25:33.453125Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="18472f1973a6f5f9fef079cd577c4f7a"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:33.296875Z"/>
+</wc-entries>

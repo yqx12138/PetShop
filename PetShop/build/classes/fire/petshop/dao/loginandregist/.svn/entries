@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="41"
+   name=""
+   committed-date="2006-12-02T06:56:39.390625Z"
+   url="svn://192.168.0.234/src/fire/petshop/loginandregist/dao"
+   last-author="zsc"
+   kind="dir"
+   uuid="1306c2f2-8ee0-3349-9b4e-5501e8f530fd"
+   repos="svn://192.168.0.234"
+   revision="42"/>
+<entry
+   committed-rev="41"
+   name="AccountBaseDao.class"
+   text-time="2006-12-02T07:25:38.031250Z"
+   committed-date="2006-12-02T06:56:39.390625Z"
+   checksum="34ef80f214721d01840cac8bb5fe8e3a"
+   last-author="zsc"
+   kind="file"
+   prop-time="2006-12-02T07:25:38.000000Z"/>
+<entry
+   committed-rev="31"
+   name="AccountBaseDao.java"
+   text-time="2006-11-30T09:38:14.062500Z"
+   committed-date="2006-11-30T09:37:16.000000Z"
+   checksum="80401f5c932457335844cb50900c9777"
+   last-author="yf"
+   kind="file"
+   prop-time="2006-11-30T09:38:14.015625Z"/>
+</wc-entries>

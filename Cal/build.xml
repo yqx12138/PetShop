@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<project name="project" default="test">
+    <property name="build" value="bin"></property>
+    <property name="src" value="src"></property>
+    <property name="src-test" value="src-test"></property>
+    <property name="lib" value="../Cal/lib"></property>
+    <property name="testReport" value="testReport"></property>
+    <path id="javac-lib">
+	<fileset dir="${lib}">
+		<include name="*.jar" />
+	</fileset>
+	
+	<!--缺少以下的设置可能出现ClassNotFoundException错误-->
+	<pathelement location="${build}"/>
+    </path> 
+ 
+    <target name="compile">
+       <javac destdir="${build}" debug="true" encoding="UTF-8">
+		<src path="src" />
+		<classpath refid="javac-lib" />
+	</javac>
+    </target>    
+ 
+    <target name="test" depends="compile"> 
+	<delete dir="${testReport}" />
+	<mkdir dir="${testReport}" />
+ 	
+	<!--执行JUnit测试用例--> 
+	<junit printsummary="yes"> 
+		<classpath refid="javac-lib"/> 
+		<formatter type="xml"/> 
+		<batchtest todir="${testReport}"> 
+			<fileset dir="${build}"> 
+				<include name="**/*Test.class"/> 
+			</fileset> 
+		</batchtest> 
+	</junit> 
+	
+	<!--生成html的测试报告--> 
+	<junitreport todir="${testReport}"> 
+		<fileset dir="${testReport}">
+			<include name="TEST-*.xml"/> 
+		</fileset> 
+		<report format="frames" todir="${testReport}"/>
+	</junitreport> 
+ 
+	<!--删除xml的测试结果-->
+	<delete dir="${testReport}">
+		<include name="*.xml" />
+	</delete> 
+    </target>
+</project>
